@@ -1,0 +1,4 @@
+rm -f inst/doc/*.aux inst/doc/*.log inst/doc/*.tex
+find . -name \*~ -exec rm {} \;
+find . -name \*bak -exec rm {} \;
+
