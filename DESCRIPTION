@@ -1,6 +1,6 @@
 Package: fabiaData
 Title: Data sets for FABIA (Factor Analysis for Bicluster Acquisition)
-Version: 1.0.1
+Version: 1.0.2
 Date: 2012-08-15
 Author: Sepp Hochreiter <hochreit@bioinf.jku.at>
 Maintainer: Sepp Hochreiter <hochreit@bioinf.jku.at>
